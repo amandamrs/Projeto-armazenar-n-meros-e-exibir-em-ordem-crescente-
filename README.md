@@ -4,7 +4,7 @@ Este é um projeto simples implementado em C que demonstra a leitura de 5 númer
 
 ### ✨ Funcionalidades
 
-  * **Leitura de Dados:** Solicita ao usuário a entrada de $5$ números inteiros.
+  * **Leitura de Dados:** Solicita ao usuário a entrada de 5 números inteiros.
   * **Ordenação:** Utiliza o algoritmo **Bubble Sort (Método da Bolha)** para ordenar os números armazenados no vetor.
   * **Exibição:** Imprime o vetor resultante na tela, exibindo os números em ordem crescente.
   * **Constante:** Define o tamanho do vetor ($\text{TAMANHO}=5$) usando uma *macro* (`#define`), facilitando a manutenção.
